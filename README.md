@@ -42,6 +42,10 @@
 - 社員側生徒管理機能	13-11 申請処理ステータス
 - 社員側生徒管理機能	13-12 申請のキャンセル機能
 
+就業termから
+ - AWS
+ - devise
+
 ## 5. **カタログ設計**
 https://docs.google.com/spreadsheets/d/1zL8A3oBoAps_IY0Tl70mZr9RQTBz-FJ7wm9bqx3ozGY/edit?usp=sharing
 
