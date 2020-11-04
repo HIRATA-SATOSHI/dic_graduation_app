@@ -45,6 +45,8 @@
 就業termから
  - AWS
  - devise
+カリキュラム外から
+- Ransack
 
 ## 5. **カタログ設計**
 https://docs.google.com/spreadsheets/d/1zL8A3oBoAps_IY0Tl70mZr9RQTBz-FJ7wm9bqx3ozGY/edit?usp=sharing
