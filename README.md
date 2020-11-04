@@ -45,6 +45,7 @@
 就業termから
  - AWS
  - devise
+ 
 カリキュラム外から
 - Ransack
 
